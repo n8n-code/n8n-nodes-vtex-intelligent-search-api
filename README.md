@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Autocomplete | GET Get list of suggested terms and attributes similar to the search term, GET Get list of the 10 most searched terms |
-| Product List Page | GET Get list of banners registered for query, GET Get attempt of correction of a misspelled term, GET Get list of the possible facets for a given query, GET Get list of products for a query, GET Get list of suggested terms similar to the search term |
+| Autocomplete | Get list of suggested terms and attributes similar to the search term, Get list of the 10 most searched terms |
+| Product List Page | Get list of banners registered for query, Get attempt of correction of a misspelled term, Get list of the possible facets for a given query, Get list of products for a query, Get list of suggested terms similar to the search term |
 
 ---
 
